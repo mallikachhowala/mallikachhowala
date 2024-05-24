@@ -2,7 +2,6 @@
 
 👩🏽‍🎓 Studying Electronic Engineering @ King's College London <br/>
 📚 Currently learning and researching the use of reinforcement learning coupled with Graph Neural Networks! <br/>
-🖇️ [-->LinkedIN<--](https://www.linkedin.com/in/mallika-chhowala-44707b1b6/) <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallikachhowala) 
